@@ -1,38 +1,47 @@
-# 👋 Hi there, I'm Imran Hossen
+# 👋 Hi, I'm **Imran Hossen**
 
-🎯 **Computer Vision & Audio Processing Engineer**  
-💻 **B.S. in Computer Science from KUET, Bangladesh** | 🎵 **I'm also a Generative and Explainable AI Researcher**
-
----
-
-## 🌍 About Me
-
-I'm a from Bangladesh. I'm a Machine Learning engineer specializing in **Computer Vision**, **Audio Signal Processing**, and **Applied Machine Learning**.  
-I love turning real-world data — images, sound, and motion — into intelligent, production-ready applications. I'm also a Generative and Explainable AI Researcher. I've made `F2HF`, an interpretability method for vision transformer.
+🎯 *Computer Vision & Audio Processing Engineer*  
+🧩 *Generative & Explainable AI Researcher*  
+📍 *Bangladesh*
 
 ---
 
-## 🧠 Areas of Expertise
-
-- 🖼️ **Computer Vision** – Object detection, pose estimation, optical flow, visual tracking  
-- 🎶 **Audio Processing** – Speech recognition, source separation, real-time DSP  
-- 🤖 **Machine Learning** – PyTorch, TensorFlow, ONNX, Scikit-learn  
-- ⚙️ **Programming Languages** – Python, C++, Node.js, TypeScript, OpenCV, FFmpeg  
-- ☁️ **Deployment** – Docker, FastAPI, AWS
+### 🧠 About Me  
+I’m a Machine Learning Engineer passionate about building intelligent systems that see, hear, and understand the world.  
+Creator of **F2HF**, an interpretability method for Vision Transformers.
 
 ---
 
-## 🔭 Currently Working On
+### ⚙️ Core Expertise  
+**Computer Vision** • **Audio Processing** • **Generative AI** • **Explainable AI**
 
-- 🚀 Building a **real-time audio denoising pipeline** for object & gesture recognition (Research)
-- 🧩 Building a Large **EEG Embedding** Model (Research)
-- 🎤 Developing an **audio classification system** using spectrogram-based CNNs (Competition) 
+---
 
+### 🧩 Tech Stack  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,sklearn,docker,fastapi,aws" />
+</p>
 
-📬 Reach me at: [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:mu.imran2002@gmail.com)  
-💬 Connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/imrnh)  
+---
 
+### 🚀 Current Projects  
+- 🎧 Real-time **Audio Denoising Pipeline** for gesture recognition  
+- 🧠 Large **EEG Embedding Model** (Research)  
+- 🎤 **Audio Classification System** using Spectrogram CNNs  
 
-![Profile Views](https://komarev.com/ghpvc/?username=imrnh&color=blue&style=flat-square)
+---
 
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="mailto:mu.imran2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/imrnh">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imrnh&color=blue&style=flat-square" alt="Profile Views" />
+</p>
