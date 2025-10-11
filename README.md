@@ -9,7 +9,7 @@ I'm also a Generative and Explainable AI Researcher. Primarily working with Norm
 <br>
 
 ### ⚙️ Core Expertise & Tech Stack  
-**Computer Vision** • **Audio Processing** • **Generative AI** • **Explainable AI**
+*Computer Vision* • *Audio Processing* • *Generative AI*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
