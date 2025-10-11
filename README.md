@@ -1,36 +1,27 @@
 # 👋 Hi, I'm **Imran Hossen**
-
 🎯 *Computer Vision & Audio Processing Engineer*  
 🧩 *Generative & Explainable AI Researcher*  
 📍 *Bangladesh*
 
----
 
 ### 🧠 About Me  
 I’m a Machine Learning Engineer passionate about building intelligent systems that see, hear, and understand the world.  
-Creator of **F2HF**, an interpretability method for Vision Transformers.
+Creator of **F2HF**, an interpretability method for Vision Transformers. 
+<br>
 
----
-
-### ⚙️ Core Expertise  
+### ⚙️ Core Expertise & Tech Stack  
 **Computer Vision** • **Audio Processing** • **Generative AI** • **Explainable AI**
 
----
-
-### 🧩 Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,sklearn,docker,fastapi,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,django,aws" />
 </p>
-
----
+<br>
 
 ### 🚀 Current Projects  
 - 🎧 Real-time **Audio Denoising Pipeline** for gesture recognition  
 - 🧠 Large **EEG Embedding Model** (Research)  
-- 🎤 **Audio Classification System** using Spectrogram CNNs  
 
----
+
 
 ### 🌐 Connect With Me  
 <p align="center">
@@ -40,8 +31,7 @@ Creator of **F2HF**, an interpretability method for Vision Transformers.
   <a href="https://linkedin.com/in/imrnh">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
+    <img src="https://komarev.com/ghpvc/?username=imrnh&color=blue&style=flat-square" alt="Profile Views" />
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imrnh&color=blue&style=flat-square" alt="Profile Views" />
-</p>
