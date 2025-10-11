@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Imran Hossen
 
-🎯 **Freelance Computer Vision & Audio Processing Engineer**  
+🎯 **Computer Vision & Audio Processing Engineer**  
 💻 **B.S. in Computer Science from KUET, Bangladesh** | 🎵 **I'm also a Generative and Explainable AI Researcher**
 
 ---
