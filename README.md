@@ -20,8 +20,8 @@ I'm also a Generative and Explainable AI Researcher. Primarily working with Norm
 <br>
 
 ### 🚀 Current Projects  
-- 🎧 Real-time **Audio Denoising Pipeline** for gesture recognition  
-- 🧠 Large **EEG Embedding Model** (Research)  
+- 🎧 Real-time **Audio Denoising** model (Research)  
+- 🧠 Large **EEG Embedding Model** (Research)
 
 
 ### Research Projects
@@ -34,9 +34,12 @@ I'm also a Generative and Explainable AI Researcher. Primarily working with Norm
   <a href="mailto:mu.imran2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" />
   </a>
+
   <a href="https://linkedin.com/in/imrnh">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
+  <a href="https://huggingface.co/imrnh">
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-orange?style=flat-square&logo=huggingface" />
+  </a>
     <img src="https://komarev.com/ghpvc/?username=imrnh&color=blue&style=flat-square" alt="Profile Views" />
-
 </p>
