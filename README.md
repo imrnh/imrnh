@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Imran Hossen**<br>
-🔬 **Computer Vision Engineer, Researcher in Generative & Explainable AI**  
+🔬 **Machine Learning Engineer, Researcher in Generative & Explainable AI**  
 📍 *Dhaka, Bangladesh*
 
 
