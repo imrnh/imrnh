@@ -24,12 +24,14 @@ I'm also a Generative and Explainable AI Researcher primarily working with Norma
 ### Research
 
 - `F2HF`: Interpretability method for vision transformer. <a href="https://research.imranhossen.org/f2hf"> Link</a>
+<br>
 
 
 ### 🚀 Current Projects  
 - 🎧 Real-time **Audio Denoising** model (Research)  
 - 🧠 Large **EEG Embedding Model** (Research)
 
+<br>
 <br>
 
 
