@@ -20,11 +20,6 @@ I'm also a Generative and Explainable AI Researcher primarily working with Norma
 
 <br>
 
-### 🚀 Current Projects  
-- 🎧 Real-time **Audio Denoising** model (Research)  
-- 🧠 Large **EEG Embedding Model** (Research)
-
-<br>
 
 ### Research
 
@@ -32,6 +27,12 @@ I'm also a Generative and Explainable AI Researcher primarily working with Norma
 
 <br>
 
+
+### 🚀 Current Projects  
+- 🎧 Real-time **Audio Denoising** model (Research)  
+- 🧠 Large **EEG Embedding Model** (Research)
+
+<br>
 
 
 <p align="center">
