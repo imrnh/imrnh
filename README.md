@@ -55,7 +55,7 @@ Python, C++, SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
       <p>&nbsp;</p>
       <strong>Tennis gameplay analysis software</strong><br>
       <p>&nbsp;</p>
-      <img src="https://raw.githubusercontent.com/imrnh/tennis_player_analysis/refs/heads/main/bin/project_demonstration.gif">
+      <img src="https://raw.githubusercontent.com/imrnh/tennis_player_analysis/refs/heads/main/bin/presentation/project_demonstration.gif">
     </td>
   </tr>
   <tr>
