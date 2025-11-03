@@ -8,29 +8,7 @@ I’m a Machine Learning Engineer passionate about building intelligent **vision
 I'm also a Generative and Explainable AI Researcher primarily working with Normalizing flows and Diffusion based methods. I've made `F2HF`, an interpretability method for Vision Transformers. 
 <br>
 
-### ⚙️ Core Expertise & Tech Stack  
-*Computer Vision* • *Audio Processing* • *Generative AI*
 
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws,django,docker" />
-</p>
-
-
-
-### Research
-
-- `F2HF`: Interpretability method for vision transformer. <a href="https://research.imranhossen.org/f2hf"> Link</a>
-
-<br>
-
-### 🚀 Current Projects  
-- 🎧 Real-time **Audio Denoising** model (Research)  
-- 🧠 Large **EEG Embedding Model** (Research)
-
-<br>
 <br>
 
 
@@ -42,3 +20,49 @@ I'm also a Generative and Explainable AI Researcher primarily working with Norma
   <a href="https://huggingface.co/imrnh"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="22" /></a>
 </p>
 
+<br>
+
+
+### ⚙️ Core Expertise & Tech Stack  
+*Computer Vision* • *Audio Processing* • *Generative AI*
+
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws,django,docker" />
+</p>
+
+<br>
+
+
+### Research
+
+- `F2HF`: Interpretability method for vision transformer. <a href="https://research.imranhossen.org/f2hf"> Link</a>
+
+<br>
+
+### 🚀 Selected Projects  
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <p>&nbsp;</p>
+      <strong>Tennis gameplay analysis software</strong><br>
+      <p>&nbsp;</p>
+      <img src="https://raw.githubusercontent.com/imrnh/tennis_player_analysis/refs/heads/main/bin/project_demonstration.gif">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>&nbsp;</p><strong>Virtual try on app</strong><br><p>&nbsp;</p>
+      <img src="https://raw.githubusercontent.com/imrnh/vilt/refs/heads/main/bin/presentation/1.png">
+    </td>
+    <td align="center">
+      <p>&nbsp;</p><strong>Style transfer without neural network (with classical features only)</strong><br><p>&nbsp;</p>
+      <img src="https://raw.githubusercontent.com/imrnh/classical_style_transfer/main/images/output/generated_output.png">
+    </td>
+  </tr>
+</table>
+<br>
+<br>
