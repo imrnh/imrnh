@@ -4,8 +4,8 @@
 
 
 ### 🧠 About Me  
-I’m a Machine Learning Engineer passionate about building intelligent **vision** and **audio** processing systems. 
-I'm also a Generative and Explainable AI Researcher primarily working with Normalizing flows and Diffusion based methods. I've made `F2HF`, an interpretability method for Vision Transformers. 
+I’m a ML Engineer with expertise <ins>*Video*</ins>, <ins>*Image*</ins> and <ins>*Audio*</ins> processing. 
+I'm also an Explainable AI & Generative AI Researcher primarily working with Normalizing flows and Diffusion based methods. I've made `F2HF`, an interpretability method for Vision Transformers. 
 <br>
 
 
