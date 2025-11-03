@@ -28,10 +28,15 @@ I'm also an Explainable AI & Generative AI Researcher primarily working with Nor
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgresql" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws,django,docker" />
 </p>
+
+<p align="center">
+Python, C++, SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch, Tensorflow, OpenCV &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp; AWS, Django, Docker
+</p>
+
 
 <br>
 
