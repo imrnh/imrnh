@@ -13,8 +13,8 @@ I'm also an Explainable AI & Generative AI Researcher primarily working with Nor
 
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_USER_ID"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" alt="Google Scholar" height="22" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0002-4749-3079"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="ORCID" height="22" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=YOUR_USER_ID"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Google Scholar" height="22" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0002-4749-3079"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="ORCID" height="22" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mu.imran2002@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="22" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/imrnh"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="22"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/imrnh"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="22" /></a>
